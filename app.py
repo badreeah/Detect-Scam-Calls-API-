@@ -85,13 +85,13 @@ except Exception as e:
 
 app = FastAPI(title="Scam Detection API")
 
+# Enable CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
-    allow_headers=["*"],
-    allow_methods=["*"],
+    allow_origins=["*"],  # allow requests from any origin (for testing)
+    allow_methods=["*"],  # allow all HTTP methods (GET, POST, etc.)
+    allow_headers=["*"]   # allow all headers
 )
-
 class MessageRequest(BaseModel):
     message: str
 
