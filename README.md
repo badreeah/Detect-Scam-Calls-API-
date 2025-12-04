@@ -320,10 +320,3 @@ This API addresses the growing problem of **phone scam fraud** by:
 4. **High Accuracy**: Achieves 98%+ accuracy using advanced ML techniques
 5. **Scalable Solution**: Can be integrated into mobile apps, web applications, or messaging platforms
 
-**Common Scam Patterns Detected:**
-
-- Fake bank verification requests
-- OTP/code phishing attempts
-- Prize/lottery scams
-- Expired KYC/account threats
-- Urgency-based social engineering
