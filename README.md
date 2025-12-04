@@ -275,10 +275,10 @@ Download and install Postman if you haven't already.
 
 The system uses keyword matching to enhance detection accuracy. Messages containing 2+ keywords from this list are automatically flagged as scam:
 
-- unusual activity, account restricted, verify identity
-- bank account, frozen card, blocked account
-- win, prize, money, transfer, urgent
-- otp, code, personal info, cvv
+- unusual activity, account restricted, verify identity.
+- bank account, frozen card, blocked account.
+- win, prize, money, transfer, urgent.
+- otp, code, personal info, cvv.
 
 ---
 
