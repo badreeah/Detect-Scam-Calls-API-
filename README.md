@@ -163,7 +163,7 @@ INFO:     Application startup complete.
 
 ```json
 {
-  "message": "hello sir, i am jio from customer care in 23 hours your bank account will be closed."
+  "message": "hello sir, i am ahmed from customer care in 23 hours your bank account will be closed."
 }
 ```
 
@@ -171,7 +171,7 @@ INFO:     Application startup complete.
 
 ```json
 {
-  "original_message": "hello sir, i am jio from customer care in 23 hours your bank account will be closed.",
+  "original_message": "hello sir, i am ahmed from customer care in 23 hours your bank account will be closed.",
   "detected_language": "en",
   "translated_message": null,
   "model_prediction": "scam",
